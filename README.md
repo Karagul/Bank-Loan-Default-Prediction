@@ -1,4 +1,4 @@
-# Analiticity-Requeza-Technex'19
+# Analiticity-Riqueza-Technex'19-IIT(BHU)
 ### Problem Statement
 Bharat Bank is a banking institution. Every year, a large number of people take home loans from Bharat Bank,
 and many of them default on their loans which results in huge losses for the bank. 
